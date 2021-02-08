@@ -1,4 +1,4 @@
-package playground.testng.ch1;
+package playground.testng;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;

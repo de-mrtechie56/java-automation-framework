@@ -14,3 +14,5 @@ Executing tests using TestNG
 	How can you execute multiple tests available in different classes using TestNG.xml?
 	How do you execute multiple tests different in different TestNG.xml's?
 	What is the parent tag for the suite-files?
+	What is the significance of the verbose in the TestNG.xml?
+	How detailed do you get the log data when you increase vs decrease the verbose value?

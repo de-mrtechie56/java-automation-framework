@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression suite"> 
+<parameter name="Course1" value="Suite Param1"></parameter>
+<parameter name="Course2" value="Suite Param2"></parameter>
+  <test name="UI tests1" verbose="10">
+  	<parameter name="Course3" value="Test Param1"></parameter>
+	<parameter name="Course4" value="Test Param2"></parameter>
+    <classes>
+      <class name="playground.testng.Q6"/>
+    </classes>
+  </test> <!-- Default test -->
+  <test name="UI tests2" verbose="10">
+	<parameter name="Course4" value="Test Param2"></parameter>
+    <classes>
+      <class name="playground.testng.Q6"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

@@ -3,8 +3,8 @@
 <suite name="Regression suite"> 
   <test name="UI tests" verbose="2">
     <classes>
-      <class name="playground.testng.ch1.Q1"/>
-      <class name="playground.testng.ch1.Q2"/>
+      <class name="playground.testng.Q1"/>
+      <class name="playground.testng.Q2"/>
       
     </classes>
   </test> <!-- Default test -->

@@ -1,0 +1,4 @@
+Defining Pass/Fail/Skip tests
+	How do mark a test as Pass/Fail?
+	How can you skip a test from executing?
+	What happens to the execution when an assertion fails?
