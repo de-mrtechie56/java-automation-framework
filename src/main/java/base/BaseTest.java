@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 public class BaseTest {
   @Test(dataProvider = "dp")
   public void f(Integer n, String s) {
-	  System.out.println(n + s);
+	  System.out.println(n.toString() + ',' + s);
 
   }
   @BeforeMethod
