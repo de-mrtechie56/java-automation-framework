@@ -1,0 +1,5 @@
+Defining suite and test parameters and setting default values
+	How do create a suite parameter?
+	How do create a test parameter?
+	How do create multiple suite and test parameters?
+	How do send default values to the parameters?

@@ -1,0 +1,18 @@
+Executing tests using TestNG
+	How do you execute TestNG tests?
+	Is it necessary to have the TestNG.xml to execute tests?
+	What will happen if you do not provide the TestNG.xml file and execute tests?
+	What can be the name of the TestNG.xml?
+	How do you execute tests using TestNG.xml?
+	If you have multiple TestNG.xml's what tests will be executed?
+	In a single TestNG.xml file if you have same class repeated what will happen?
+	If multiple TestNG.xml's have the common tests what will happen during execution?
+	What will the TestNG.XML contain?
+	Can you change the name of the test suite and test name?
+	What will happen if you list the name of the class which is not available?
+	How can you execute multiple tests available in the same class using TestNG.xml?
+	How can you execute multiple tests available in different classes using TestNG.xml?
+	How do you execute multiple tests different in different TestNG.xml's?
+	What is the parent tag for the suite-files?
+	What is the significance of the verbose in the TestNG.xml?
+	How detailed do you get the log data when you increase vs decrease the verbose value?

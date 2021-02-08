@@ -1,0 +1,6 @@
+Defining Priority and DependsOnMethods
+	How do you define priority of a test?
+	If two tests have the same priority which test will be executed first?
+	How do you create dependency on one test?
+	How do you create dependency on multiple tests?
+	How do you create priority and dependency on multiple tests?
